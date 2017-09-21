@@ -77,5 +77,35 @@
     <text name="Actions">Actions</text>
 
     <text name="CouldNotCompleteLoginOperation">Could not complete login operation. Please try again later.</text>
+    <text name="Poles" value="Poles" />
+    <text name="PoleCategories" value="Pole Categories" />
+    <text name="Lines" value="Lines" />
+    <text name="Code" value="Code" />
+    <text name="Description" value="Description" />
+    <text name="UserDetails" value="User Details" />
+    <text name="UserRoles" value="User Roles" />
+    <text name="Close" value="Close" />
+    <text name="Dashboard" value="Dashboard" />
+    <text name="CreateUser" value="Create User" />
+    <text name="UpdateUser" value="Update User" />
+    <text name="AreYouSure" value="Are you sure?" />
+    <text name="DeletingCurrentUser" value="You are deleting current user, you will log out automatically after deleting." />
+    <text name="Permissions" value="Permissions" />
+    <text name="UpdateRole" value="Update Role" />
+    <text name="CreateRole" value="Create Role" />
+    <text name="FieldIsInvalid" value="Field Is Invalid" />
+    <text name="DeleteRole" value="Delete Role" />
+
+    <text name="Create" value="Create" />
+    <text name="Update" value="Update" />
+    <text name="Submit" value="Submit" />
+
+    <text name="PoleCategory" value="Pole Category" />
+    <text name="Height" value="Height" />
+    <text name="Longitude" value="Longitude" />
+    <text name="Latitude" value="Latitude" />
+    <text name="BeginPole" value="Begin Pole" />
+    <text name="EndPole" value="End Pole" />
+    
   </texts>
 </localizationDictionary>

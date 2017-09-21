@@ -4,7 +4,6 @@
     <text name="HomePage" value="主页" />
     <text name="About" value="关于我们" />
     <text name="WellcomeMessage" value="欢迎使用 MyProject!" />
-    
     <text name="FormIsNotValidMessage" value="部分输入信息不符合要求，请检查并改正.." />
     <text name="TenantNameCanNotBeEmpty" value="租户名不能为空" />
 
@@ -20,6 +19,54 @@
     <text name="LogIn" value="登录" />
 
     <text name="LoginFailed" value="登录失败!" />
-    
+    <text name="Users" value="用户管理" />
+    <text name="Logout" value="登出" />
+    <text name="Tenants" value="租户管理" />
+    <text name="Poles" value="线杆管理" />
+    <text name="PoleCategories" value="线杆种类管理" />
+    <text name="Lines" value="线路管理" />
+    <text name="Roles" value="角色管理" />
+    <text name="Code" value="编码" />
+    <text name="Name" value="名称" />
+    <text name="Description" value="简介" />
+    <text name="Actions" value="操作" />
+    <text name="IsActive" value="是否激活" />
+    <text name="DisplayName" value="显示名称" />
+
+    <text name="EmailAddress" value="邮箱地址" />
+    <text name="UserName" value="用户名" />
+    <text name="FullName" value="姓名" />
+    <text name="Surname" value="姓" />
+    <text name="ConfirmPassword" value="确认密码" />
+    <text name="UserDetails" value="用户明细" />
+    <text name="UserRoles" value="用户角色" />
+    <text name="Close" value="关闭" />
+    <text name="Dashboard" value="仪表盘" />
+    <text name="CreateUser" value="创建用户" />
+    <text name="UpdateUser" value="编辑用户" />
+    <text name="DeleteUser" value="删除用户" />
+    <text name="Edit" value="编辑" />
+    <text name="Delete" value="删除" />
+    <text name="AreYouSure" value="是否确定？" />
+    <text name="RoleName" value="角色名称" />
+    <text name="DeletingCurrentUser" value="您正在删除当前登陆用户，删除后您将自动退出系统。" />
+
+    <text name="Permissions" value="权限管理" />
+    <text name="UpdateRole" value="编辑角色" />
+    <text name="CreateRole" value="创建角色" />
+    <text name="DeleteRole" value="删除角色" />
+    <text name="FieldIsInvalid" value="输入内容无效" />
+
+    <text name="Create" value="创建" />
+    <text name="Update" value="编辑" />
+
+    <text name="PoleCategory" value="线杆种类" />
+    <text name="Height" value="海拔" />
+    <text name="Longitude" value="经度" />
+    <text name="Latitude" value="维度" />
+    <text name="Submit" value="提交" />
+    <text name="BeginPole" value="起始线杆" />
+    <text name="EndPole" value="终点线杆" />
+
   </texts>
 </localizationDictionary>
