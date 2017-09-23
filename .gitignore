@@ -250,3 +250,11 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# IDEs and editors
+.vs/
+.vscode/
+obj/
+bin/
+src/MyProject.Web.Host/App_Data/Logs/
+src/MyProject.Web.Mvc/App_Data/Logs/
