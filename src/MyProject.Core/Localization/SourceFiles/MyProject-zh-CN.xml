@@ -67,6 +67,6 @@
     <text name="Submit" value="提交" />
     <text name="BeginPole" value="起始线杆" />
     <text name="EndPole" value="终点线杆" />
-
+    <text name="PoleMap" value="线杆地图" />
   </texts>
 </localizationDictionary>

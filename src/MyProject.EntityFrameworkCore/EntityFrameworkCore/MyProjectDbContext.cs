@@ -22,5 +22,14 @@ namespace MyProject.EntityFrameworkCore
         {
 
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Pole>().Property(e => e.Height).HasColumnType("decimal(18,6)");
+            modelBuilder.Entity<Pole>().Property(e => e.Latitude).HasColumnType("decimal(18,6)");
+            modelBuilder.Entity<Pole>().Property(e => e.Longitude).HasColumnType("decimal(18,6)");
+        }
+
     }
 }
